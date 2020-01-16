@@ -4,7 +4,7 @@ Auto bit (auction) in Facebook Messenger Group Chat
 this script will bit +50 each time, you can change this in the code
 
 # installation
-Just clone this repo and make sure that you have install fbchat module in python
+Just clone this repo and make sure that you have installed fbchat module in python
 
 if there's no fbchat installed, just simply install using pip install fbchat
 
